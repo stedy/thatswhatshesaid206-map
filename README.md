@@ -8,6 +8,7 @@ Please open a PR if you have spotted one not listed on here.
 
 Current list of portraits:
 
+- Alexandria Ocasio-Cortez
 - Ali Wong
 - Amanda Gorman
 - Angela Rye
@@ -16,6 +17,7 @@ Current list of portraits:
 - Dolly Parton
 - Dr. Kelle Brown
 - Dr. Kizzmekia Corbett
+- Ella Fitzgerald
 - Erin Jones
 - Frida Kahlo
 - Hana Kawai
@@ -25,13 +27,18 @@ Current list of portraits:
 - Kamala Harris
 - Kimya Dawson
 - Kirsten Harris-Talley
+- Lindy West
+- Lizzo
 - Mae Jemison
 - Malala
 - Maxine Waters
+- Maya Angelou
+- Michelle Obama
 - Missy Elliott
 - Nina Simone
 - Nomy Lamm
 - Park Cannon
+- Patti Smith
 - Patty Liang
 - Pramila Jayapal
 - Rosa Parks
