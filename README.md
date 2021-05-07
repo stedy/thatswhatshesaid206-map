@@ -1,6 +1,11 @@
 # thatswhatshesaid206-map
 
-This is a map of all the portraits by the artist behind
+Have you seen portraits like this one in South Seattle?
+
+![](missyelliot.jpg)
+
+
+This repo is supporting a map of all the portraits by the artist behind
 [@thatswhatshesaid206](https://www.instagram.com/thatswhatshesaid206/?igshid=8ksn37ti7f65)
 
 I am not the artist, just a fan on the lookout for more portraits.
