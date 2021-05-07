@@ -2,7 +2,7 @@
 
 Have you seen portraits like this one in South Seattle?
 
-![](missyelliot.jpg)
+![](https://github.com/stedy/thatswhatshesaid206-map/blob/main/missyelliott.jpg)
 
 
 This repo is supporting a map of all the portraits by the artist behind
