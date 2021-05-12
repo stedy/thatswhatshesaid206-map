@@ -28,6 +28,7 @@ Current list of portraits:
 - Hana Kawai
 - Harriet Tubman
 - Ijeoma Oluo
+- Ilhan Omar
 - Jane Goodall
 - Kamala Harris
 - Kimya Dawson
@@ -47,7 +48,7 @@ Current list of portraits:
 - Patty Liang
 - Pramila Jayapal
 - Rosa Parks
-- Ruth Bader Ginsburg
+- Ruth Bader Ginsburg (x2)
 - Shari Leid
 - Sonia Sotomayor
 - Stacey Abrams
