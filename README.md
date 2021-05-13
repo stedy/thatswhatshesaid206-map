@@ -13,6 +13,7 @@ Please open a PR if you have spotted one not listed on here.
 
 Current list of portraits:
 
+- Aki Kurose
 - Alexandria Ocasio-Cortez
 - Ali Wong
 - Amanda Gorman
