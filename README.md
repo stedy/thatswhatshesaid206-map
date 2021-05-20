@@ -20,6 +20,7 @@ Current list of portraits:
 - Angela Rye
 - Ayanna Pressley
 - Beatrice Domond
+- Bree Newsome Bass
 - Dolly Parton
 - Dr. Kelle Brown
 - Dr. Kizzmekia Corbett
@@ -32,6 +33,7 @@ Current list of portraits:
 - Ilhan Omar
 - Jane Goodall
 - Kamala Harris
+- Kathleen Hanna
 - Kimya Dawson
 - Kirsten Harris-Talley
 - Lindy West
