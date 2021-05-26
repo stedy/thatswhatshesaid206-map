@@ -18,8 +18,10 @@ Current list of portraits:
 - Ali Wong
 - Amanda Gorman
 - Angela Rye
+- Autumn Peltier
 - Ayanna Pressley
 - Beatrice Domond
+- bell hooks
 - Bree Newsome Bass
 - Dolly Parton
 - Dr. Kelle Brown
@@ -32,6 +34,7 @@ Current list of portraits:
 - Ijeoma Oluo
 - Ilhan Omar
 - Jane Goodall
+- Josephine Baker
 - Kamala Harris
 - Kathleen Hanna
 - Kimya Dawson
@@ -53,8 +56,10 @@ Current list of portraits:
 - Rosa Parks
 - Ruth Bader Ginsburg (x2)
 - Shari Leid
+- Sherae Lascelles
 - Sonia Sotomayor
 - Stacey Abrams
+- Sylvia Rivera
 - Tabitha Brown
 - Toni Morrison
 - Wangari Maathai
