@@ -31,6 +31,7 @@ Current list of portraits:
 - Frida Kahlo
 - Hana Kawai
 - Harriet Tubman
+- Ida B. Wells
 - Ijeoma Oluo
 - Ilhan Omar
 - Jane Goodall
