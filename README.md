@@ -38,6 +38,7 @@ Current list of portraits:
 - Josephine Baker
 - Kamala Harris
 - Kathleen Hanna
+- Kim Ng
 - Kimya Dawson
 - Kirsten Harris-Talley
 - Lindy West
